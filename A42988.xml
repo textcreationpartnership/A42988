@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bank of England, and their present method of paying, defended from the aspersions cast on them in a late book entituled, A review of the vniversal remedy for all diseases incident to coin with application to our present circumstances, in a letter to Mr. Locke.</title>
+            <author>P. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42988</idno>
+            <idno type="STC">Wing H101</idno>
+            <idno type="STC">ESTC R115</idno>
+            <idno type="EEBO-CITATION">13648417</idno>
+            <idno type="OCLC">ocm 13648417</idno>
+            <idno type="VID">100955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 789:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bank of England, and their present method of paying, defended from the aspersions cast on them in a late book entituled, A review of the vniversal remedy for all diseases incident to coin with application to our present circumstances, in a letter to Mr. Locke.</title>
+                  <author>P. H.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Speed,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: P.H.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  Early works to 1800.</term>
+               <term>Review of the universal remedy for all diseases incident to coin.</term>
+               <term>Currency question --  England --  Early works to 1800.</term>
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Currency question --  Early works to 1800.</term>
+               <term>Coinage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100955:1"/>
+            <pb facs="tcp:100955:1" rendition="simple:additions"/>
+            <p>THE Bank of England, And their Preſent Method of Paying, Defended from the ASPERSIONS Caſt on them in a late Book, ENTITULED, <hi>A Review of the <g ref="char:V">Ʋ</g>niverſal Re<g ref="char:EOLhyphen"/>medy for all Diſeaſes incident to Coin. With Application to our pre<g ref="char:EOLhyphen"/>ſent Circumſtances. In a Letter to Mr.</hi> Locke.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Speed,</hi> at the <hi>Three Crowns,</hi> near the <hi>Royal Exchange,</hi> in <hi>Cornhil,</hi> 1697.</p>
+            <p>Price Three Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100955:2"/>
+            <pb n="3" facs="tcp:100955:2"/>
+            <head>THE BANK of <hi>England,</hi> AND THEIR Method of Paying Defended, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Defence of the Bank of <hi>England,</hi> and their Preſent Method of Payment, will, I fear, ſeem at preſent ſo great a Paradox to the generality of people, that one might very well take a fair Excuſe from thence to ſave ones ſelf the labour: But my ſentiments of their Management being directly con<g ref="char:EOLhyphen"/>trary to thoſe of the Town, which I find collected with a great deal of Prejudice againſt them by the Author
+<pb n="4" facs="tcp:100955:3"/>of the Book which I receiv'd from you; I ſhall make the leſs difficulty, in anſwer to your deſire, to ſend you my thoughts of their Complaints and his Performance, with Reſpect to the Bank, without farther Apology.</p>
+            <p>The Deſign of the Author ſeems, in ſhort, (for I muſt ask his pardon if I forbear to tranſcribe the length of his Expreſſions) to preſcribe a Remedy for the preſent obſtruction, and inter<g ref="char:EOLhyphen"/>rupted Currency of our Coin. In or<g ref="char:EOLhyphen"/>der to which, he ſets himſelf to prove, <hi>That there is now in the Kingdom Good Money ſufficient, and more than ſuffici<g ref="char:EOLhyphen"/>ent to anſwer our Expences, Commerce, Markets; and, in fine, to make us all eaſie in all our occaſions.</hi> And here ve<g ref="char:EOLhyphen"/>ry much offers itſelf to be diſputed, even upon his own Computation: But for quietneſs ſake, and that we may proceed, I ſhall at preſent ſuppoſe with our Author that this is true.</p>
+            <p>Well, how comes it then that we are in this Lamentable Condition, this Woful Plight, that is the occaſion of ſuch Tragical Exclamation? Why
+<pb n="5" facs="tcp:100955:3"/>theſe are the Reaſons, ſays our Au<g ref="char:EOLhyphen"/>thor, <hi>Firſt, the Dilatory Payment of Notes by Goldſmiths, and others;</hi> and at laſt, for the greater reſpect, <hi>of Bank Notes.</hi> This he inſinuates only as yet, the violent and great Charge is reſerv'd till after. <hi>Secondly, The hoarding of the Weighty Money and Guinea's, in ex<g ref="char:EOLhyphen"/>pectation that they will be rais'd the next Parliament. Thirdly, The hoarding of Money deſignedly to keep up, and to take advantage of its ſcarcity.</hi> Fourthly and laſtly, Having diſcharg'd the laſt Re<g ref="char:EOLhyphen"/>licts of Veneration, which it ſeems he had been ſome time troubled with for the Bank of <hi>England,</hi> he lays it once more upon them, and indeed the endeavour to caſt and fix the Blame upon them chiefly, after all his wandring and ſmooth Pretences, ſeems to be the great End, and main Deſign of his long Letter.</p>
+            <p>Theſe being the Cauſes which our Author has laid down for the Reaſons of the Preſent Scarcity of Money, I ſhall go on to give you my Remarks on them as briefly as poſſible.</p>
+            <p>
+               <pb n="6" facs="tcp:100955:4"/>
+The ſlow Payment of Notes by Goldſmiths and others, muſt needs be confeſt to be a great hindrance to the free Currency of Money: But that it ought to be attributed wholly or gene<g ref="char:EOLhyphen"/>rally to their ill Management and diſ<g ref="char:EOLhyphen"/>honeſt Practices, as our Author would moſt charitably perſwade us, I can by no means conſent to; and ſhall take occaſion to ſpeak farther to, when I conſider the Reaſons for the ſlow Pay<g ref="char:EOLhyphen"/>ment at the Bank of <hi>England.</hi>
+            </p>
+            <p>The Hoarding of Guinea's and Weighty Money, in expectation of their being rais'd the next Parliament, is undoubtedly another Obſtacle to the Circulation of the Coin: And whoever does ſo, it muſt be acknow<g ref="char:EOLhyphen"/>ledg'd that their Expectations are both very unreaſonable, and extremely pre<g ref="char:EOLhyphen"/>judicial to the Intereſt of the Nation; for which reaſon I ſhall freely turn them over to be Diſciplin'd for their ill aim'd Obſtinacy by our Author.</p>
+            <p>And paſs to the other ſort of Hoard<g ref="char:EOLhyphen"/>ers which he mentions: Such as hoard to take Advantage of the Scarcity,
+<pb n="7" facs="tcp:100955:4"/>which they themſelves occaſion; and theſe are the men indeed for whom no terms are too diſgraceful. Had our Author, inſtead of the Bank, diſ<g ref="char:EOLhyphen"/>charg'd his Spleen againſt theſe unna<g ref="char:EOLhyphen"/>tural Miſers, he could ſcarce have ſaid too much againſt them, at leaſt I ſhould never have interrupted his De<g ref="char:EOLhyphen"/>clamation.</p>
+            <p>And thus at length we come to conſider the force of his Charge againſt the Bank, and to examine the Juſtice of thoſe Imputations, which he ſo harſhly lays upon them; That the ſlow Payment of their Bills, is the chief reaſon for the preſent Hardſhip of the Money.</p>
+            <p>And here I ſhall without ſcruple confeſs, that the ready Payment of their Bills would be a great help to the free Paſſage of the Money. But this is not the Caſe: The Queſtion is, Whether they have Money; I mean ſuch as will give ſatisfaction? Will thoſe who ſo impatiently demand Payment, be ſatisfy'd to take it, in the ſame ſort of Money, which their Bills
+<pb n="8" facs="tcp:100955:5"/>were given for? the greateſt Part it is well known having been, taken in, either in Clipt Money, or Gold at an overvalue: I know this cannot but be a very Offenſive Queſtion to theſe very hearty People; now that the Coin is in ſo much better condition but if they will be pleas'd to conſider, if they have not yet abſolutely re<g ref="char:EOLhyphen"/>ſolv'd to be deaf even to Truth <hi>and Reaſon, if they appear in favour of the Bank.</hi> I ſay, if they will yet reflect calmly upon this Matter, they will ſoon find, that it is to this very Al<g ref="char:EOLhyphen"/>teration of the Coin, and not to any Miſmanagement of the Directors, that their preſent Slow Payment i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owing, and by Conſequence that they are as far from Diſhoneſty in their preſent acting, as our Author is from Truth and good Manners, in his falſe and groundleſs Aſperſing of them.</p>
+            <p>However, let us trace this a little further, for the ſake of ſome People.</p>
+            <p>It is well known, that juſt before the calling in of the old, adulterated, diminiſh'd Coin, the Bank had a very
+<pb n="9" facs="tcp:100955:5"/>great number of Bills and Notes out againſt them, all which were readily anſwer'd in the Coin, to which they referr'd, the then currant Coin of the Nation, and which before the Par<g ref="char:EOLhyphen"/>liament began to take the Cure of the Money into their Conſideration, was as readily accepted by thoſe who de<g ref="char:EOLhyphen"/>manded Payment of them. Thus far then the Bank was honeſt, as honeſt as any that made Payments in the Kingdom. How came they then to alter their Me<g ref="char:EOLhyphen"/>thod? How came they that were bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt now ſo honeſt and ſo punctual, to be forc'd to hazard their Reputation, their moſt advantageous Bottom; and expoſe themſelves to theſe heavy Cen<g ref="char:EOLhyphen"/>ſures? Why this our Author, out of his profound Reſpect for ſo Conſidera<g ref="char:EOLhyphen"/>ble a Body, cannot attribute to any thing but <hi>either their Miſmanagement, or their Impotency, the effect of their Miſmanagement;</hi> which he has very wiſely noted to be the ſame thing. And upon this Chapter it is that our Author treats them without Mercy, though not without good Counſel, which h<g ref="char:EOLunhyphen"/>ie
+<pb n="10" facs="tcp:100955:6"/>is very full of: Firſt gives them a ſtroke or two by way of Preparation, then reads them a Lecture of Morality, with an <hi>O Tempora, O Mores!</hi> Laces them, half <hi>Latin,</hi> half <hi>Engliſh; Lucri honus eſt Odor.</hi> O deteſtable! bids them <hi>ſell all they have, throw the Helve after the Harchet, Plate, Tallies, Bonds, Lands, any thing, every thing;</hi> rather than ſuffer this Dunning at their Door: and if they will do this, then all will be well. But if not, nay, if they do but intreat, tho in a manner never ſo <hi>languiſhing, for ſome Forbear<g ref="char:EOLhyphen"/>ance, ſome little Pity,</hi> this brings him upon them ten times more furious than before. O Vipers! <hi>Work Gentle<g ref="char:EOLhyphen"/>men,</hi> do as I bid you, or elſe you muſt expect no favour. And thus having reduc'd them to the loweſt eſtate of wretched Mortals, given them ſome good advice, as proper to reſtore them as to cure the Tooth-ach, he leaves them to comfort themſelves, with Ends of Philoſophy, and Scraps of Poetry.</p>
+            <p>
+               <pb n="11" facs="tcp:100955:6"/>
+But after all this, if our Angry Au<g ref="char:EOLhyphen"/>thor will yet hearken, if a word or two may yet lay hold of him; Is he really in earneſt in this matter, or has he only choſe it as a fit ſubject to ex<g ref="char:EOLhyphen"/>erciſe his Talent on? Had his pre<g ref="char:EOLhyphen"/>tended Reſpect for the Bank, or but ſome Members of it been real, he might ſure have found out ſome way to have determin'd this concern ſome<g ref="char:EOLhyphen"/>thing more in their favour. I ſay, I cannot imagine but he might have found ſome appearance of Reaſon in a Caſe ſo plain, to have help'd them with on this occaſion.</p>
+            <p>For my part, this I am confident of, that if he had made but any En<g ref="char:EOLhyphen"/>quiry, if he had ask'd any but their Miſtaken, or their Malicious Enemies, the Reaſon of this <hi>faultering,</hi> as he terms it, in their Payments, they muſt needs have referr'd it to the Re<g ref="char:EOLhyphen"/>gulation of the Coyn, and the Me<g ref="char:EOLhyphen"/>thod which has been taken to make good its Deficiency.</p>
+            <p>
+               <pb n="12" facs="tcp:100955:7"/>
+When a ſtop was put to the Currency of the old Money, and thoſe who had accepted it but juſt before, refuſed to take it any longer; what could the Bank do on this Occaſion? They had no other way but to ſtand ſtill till the Buſineſs was determin'd, and when all other ways of diſpoſing of the Mo<g ref="char:EOLhyphen"/>ney they had by them, except to vaſt loſs, was ſhut up, but that of throwing it into the <hi>Exchequer,</hi> I cannot for my life imagin how they could have excus'd themſelves, if they had not, with the whole Kingdom, made uſe of the Opportunity. From which it evidently ap<g ref="char:EOLhyphen"/>pears, that it was Neceſſity and
+<pb n="13" facs="tcp:100955:7"/>the publick Good, and not any private advantage that oblig'd them to throw their Money by way of Loan into the Kings hands.</p>
+            <p>But let us follow this yet a little further, for the ſake of our Author, who ſeems as if he wink'd hard on purpoſe to mi<g ref="char:EOLhyphen"/>ſtake in this matter. The ſmall Money being thus forc'd into the <hi>Exchequer,</hi> what could be expected of the Bank, till they were ſupply'd from thence a<g ref="char:EOLhyphen"/>gain, they could not make Brick without Straw, to pay new Money while they had it not was impoſſible; from whence too it eaſily follows, that when they ſhould have it, they were
+<pb n="14" facs="tcp:100955:8"/>oblig'd both in Wiſdom and Juſtice to order their Payments according to their Receipts of it, which is by Parcels and by Time, ſo that every one might have a little; &amp; that is, in plain terms, to act as they do, ſince they can do no better. Had our Author conſider'd this, as I am ſure he ought to have done, he might eaſily have ſeen, that it is the <hi>Hardſhip of the Time and the unavoidable conſequence of the reinſtating of the Coin</hi> that occa<g ref="char:EOLhyphen"/>ſions this Difficulty, and not a<g ref="char:EOLhyphen"/>ny ill Deſign of the Bank or the Goldſmiths, as was ſaid: I am ſure his not conſidering of it gives too great an occaſion to queſtion either his Underſtand<g ref="char:EOLhyphen"/>ing or his Sincerity.</p>
+            <p>
+               <pb n="15" facs="tcp:100955:8"/>
+And now, Sir, if you have yet any doubt of the partiality, to ſay no worſe of this Writer, I deſire you would look over the Apology, which he ſays they are ſo ready to make for themſelves on this occaſion, p. 32. of his Book, and obſerve how diſingenuouſly he paſſeth it over without an anſwer, in<g ref="char:EOLhyphen"/>ſtead of which he only directs them, as if their Fortunes were at his diſpoſal, to ſell all they have, that ſo they might in<g ref="char:EOLhyphen"/>creaſe the publick hardſhip with their particular Ruin.</p>
+            <p>Oh, but ſays he again, if they had call'd in their 40 <hi>per cent.</hi> upon the firſt ſenſe of their Diſtreſs, that would have
+<pb n="16" facs="tcp:100955:9"/>ſav'd their Credit and kept them in Reputation. But can he be<g ref="char:EOLhyphen"/>lieve himſelf, when he reflects once more upon this Propoſal? Can he think the calling in of 480000 Pounds in Bills only from one part of them, would have ſatisfy'd the other that demanded to be paid in Mo<g ref="char:EOLhyphen"/>ney; the bare Propoſal of this Chimera is Anſwer enough to it, without giving it any further conſideration.</p>
+            <p>
+               <hi>Page</hi> 56. But let them call in the 40 <hi>per cent.</hi> now ſays our Author, retaining the 20 <hi>per cent.</hi> which they have borrow'd upon courteſie. And what then<g ref="char:punc">▪</g> Why then, ſays he, having gi<g ref="char:EOLhyphen"/>ven ſuch a Pledge to the worl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:100955:9"/>of their Integrity, every Body will return to them, and throw their Money into their Hands again, as they did at the be<g ref="char:EOLhyphen"/>ginning; and here indeed the Author has at laſt found the true way to oblige his Friends the Members of the Bank, and to bind them to him for ever. But ſuppoſe if the Bank ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld do this, yet People ſhould not bring their Money ſo faſt to them as he promiſes, but not<g ref="char:EOLhyphen"/>withſtanding this great Pledge, ſhould rather chuſe to keep it themſelves to anſwer their more preſſing, occaſions. I ſay what would our Author ſay to this, what Recompence could he make theſe Friends of his, after
+<pb n="18" facs="tcp:100955:10"/>they had ſo ſtraitned themſelves to no purpoſe to oblige others. Why it may be, good man, he would hold up his Hands, exclaim upon their Ingratitude, and then ſend 'em to the very Beaſts for more <hi>humane</hi> Exam<g ref="char:EOLhyphen"/>ples.</p>
+            <p>Page 58 he ſets them to caſt up their accounts, and to con<g ref="char:EOLhyphen"/>ſider their affairs, as if they had been hitherto as unthinking and as wild as <hi>Epicurus</hi> his Atoms; and then if they cannot pay rea<g ref="char:EOLhyphen"/>dy money to allow intereſt for Forbearance; in which our Au<g ref="char:EOLhyphen"/>thor diſcovers himſelf extream<g ref="char:EOLhyphen"/>ly ignorant in the Buſineſs he pretends to, for had he taken
+<pb n="19" facs="tcp:100955:10"/>never ſo little pains he might ſoon have learn'd, that whoe<g ref="char:EOLhyphen"/>ver has Notes to the value of 100 Pounds, may when he pleaſeth exchange them for In<g ref="char:EOLhyphen"/>tereſt Bills; but I perceive he is reſolv'd to order this matter ac<g ref="char:EOLhyphen"/>cording to his own fancy, tho it ſets him never ſo much beſide the <hi>Cuſhion.</hi>
+            </p>
+            <p>But his moſt endearing kind<g ref="char:EOLhyphen"/>neſs for the Bank, as well as the great expedient for the reſto<g ref="char:EOLhyphen"/>ration of the Money comes at laſt, all his other laid aſide, and that is the total decrying of the Bank, and that they ſhall pay nothing at all but Intereſt; and this he thinks would ſet
+<pb n="20" facs="tcp:100955:11"/>us all upon our Legs again. But how in the name of Goodneſs can this be, does their paying ſome money, make greater ſcar<g ref="char:EOLhyphen"/>city than if they paid none, will they who think it ſo hard to re<g ref="char:EOLhyphen"/>ceive but a little now, be in<g ref="char:EOLhyphen"/>deed better ſatisfy'd to receive none at all. Impotent Di<g ref="char:EOLhyphen"/>rector!</p>
+            <p>But, ſays he, if their Bills or Notes, which is the ſame with him, had no currency, then it muſt be Money; but what can he mean by their having no currency. However, they are order'd ſtill, thoſe that own them, will have the propriety, and by conſequence a right to
+<pb n="21" facs="tcp:100955:11"/>the diſpoſal of them, under what form ſoever they are con<g ref="char:EOLhyphen"/>ſider'd. For my part, except they could pay more money, I don't know how they can act better than they do at preſent, and I think it need not be ſuſpected, but that they will pay more as ſoon as they are able, leaſt of all that they deſignedly keep up a ſcarcity which they them<g ref="char:EOLhyphen"/>ſelves are ſuch great ſuf<g ref="char:EOLhyphen"/>ferers by: In the mean time they muſt have patience, the beſt Remedy for us all, <hi>till Time, the further conſidera<g ref="char:EOLhyphen"/>tion of the Parliament,</hi> and the Succeſs of the Publick Affairs, bring this great Con<g ref="char:EOLhyphen"/>cern
+<pb n="22" facs="tcp:100955:12"/>to an iſſue, which that it may be honorable and happy, is the hearty deſire of</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Servant, P. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:100955:12"/>
+            <list>
+               <head>Books Printed for <hi>Thomas Speed,</hi> at the <hi>Three Crowns in</hi>Corn<g ref="char:EOLhyphen"/>hill, near the <hi>Royal Exchange.</hi>
+               </head>
+               <item>THe Duties of the Cloſet: Being an earneſt exhortation to private Devo<g ref="char:EOLhyphen"/>tion. By a Divine of the Church of <hi>England.</hi> Price bound 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>Converſation in Heaven: In two parts. Part the firſt, being Devotions conſiſting of Meditations and Prayers o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeveral conſider<g ref="char:EOLhyphen"/>able Subjects in Practical Divinity. Written for the raiſing the decay'd Spirit of Piety. Part the ſecond, being Sacramental Devo<g ref="char:EOLhyphen"/>tions, conſiſting of Meditations and Prayers preparatory unto a worrby Receiving of the Holy Communion: As alſo Meditations, and Prayers ſuited to every part of Admi<g ref="char:EOLhyphen"/>niſtring and Receiving it. By the Reverend Dr. <hi>Lawrence Smith,</hi> Rector of <hi>South Warn<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orough</hi> in <hi>Hampſhire.</hi> The Second Edition. Price bound 3 <hi>s.</hi>
+               </item>
+               <item>A ſhort diſcourſe on the Holy Sacrament of the Lords Supper. Wherein its Primitive Practice, with the reaſons of its diſuſe and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eglect are fully ſet forth. What are meant <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y eating and drinking Unworthily, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aating and drinking our own Damnation,
+<pb facs="tcp:100955:13"/>are made plain to the meaneſt Capacit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Alſo all the moſt material Scruples an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Objections, commonly urged for not R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ceiving the Bleſſed Sacrament are fully a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſwered. To which, are added a ſerio<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Exhortation with directions and forms o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prayer for the Receiving of the Lords Sup<g ref="char:EOLunhyphen"/>per. By <hi>John Shank</hi> late Lecturer of St. <hi>Ma<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Magdalen Bermondſey.</hi> The ſecond Editio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Price 1 <hi>s.</hi>
+               </item>
+               <item>Of the Happineſs of the Saints in Heave<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A Sermon Preached before the Queen <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Whitehall, Oct.</hi> 12th. 1690. By <hi>William <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>veridge</hi> D. D. Rector of St. <hi>Peters Cornhi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> The ſecond Edition. Price 6 <hi>d.</hi>
+               </item>
+               <item>A Sermon at the Funeral of the Revere<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mr. <hi>Thomas Grey,</hi> late Vicar of <hi>Dedham <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Eſſex,</hi> preached in the Pariſh Church <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Dedham, Feb.</hi> 2d, 1692. With a ſhort <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>count of his Life. By <hi>Joſeph Powel,</hi> A. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rector of St. <hi>Mary on the Wall,</hi> in <hi>Colch<gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>The death of Good <hi>Joſiah</hi> lamented. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sermon occaſioned by the Death of our <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> moſt Gracious Soveraign Queen <hi>Mary,</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever Bleſſed Memory. Preached at <hi>Bal<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> in <hi>Cambridge-ſhire, March</hi> 3d, 1695. <hi>Jofeph Powel.</hi> M. A. Rector of <hi>Balſham Cambridge-ſhire.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>Religion the only Happineſs. A Po<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> In a Letter to a Friend. Price 6 <hi>d.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
